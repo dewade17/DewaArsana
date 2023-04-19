@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+.fontnama {
+  font-family: 'Bree Serif', serif;
+  font-weight: 400;
+}
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.fontbiodata {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 400;
+}
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+.judulatasnya {
+  font-family: 'Dancing Script', cursive;
+  font-weight: 700;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.fontcard {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@100;200;300;400;500;600;700&display=swap');
+.fontdeskripsi {
+  font-family: 'Anuphan', sans-serif;
+  font-weight: 400;
+}
