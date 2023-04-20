@@ -1,6 +1,6 @@
 @import url('https://animate.style/');
 .animatenama {
-  animation: bounce;
+  animation: backInDown;
   animation-duration: 2s;
 }
 @import url('https://animate.style/');
@@ -11,5 +11,20 @@
 @import url('https://animate.style/');
 .animatebio2 {
   animation: backInRight;
+  animation-duration: 2s;
+}
+@import url('https://animate.style/');
+.animateproject {
+  animation: backInUp;
+  animation-duration: 2s;
+}
+@import url('https://animate.style/');
+.animatedeskripsi {
+  animation: fadeIn;
+  animation-duration: 5s;
+}
+@import url('https://animate.style/');
+.animatecard {
+  animation: fadeInTopLeft;
   animation-duration: 2s;
 }
