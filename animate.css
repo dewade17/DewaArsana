@@ -1,21 +1,15 @@
 @import url('https://animate.style/');
 .animatenama {
-  display: inline-block;
-  margin: 0 0.5rem;
   animation: bounce;
   animation-duration: 2s;
 }
 @import url('https://animate.style/');
 .animatebio1 {
-  display: inline-block;
-  margin: 0 0.5rem;
   animation: backInLeft;
   animation-duration: 2s;
 }
 @import url('https://animate.style/');
 .animatebio2 {
-  display: inline-block;
-  margin: 0 0.5rem;
   animation: backInRight;
   animation-duration: 2s;
 }
