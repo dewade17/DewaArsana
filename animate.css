@@ -21,10 +21,21 @@
 @import url('https://animate.style/');
 .animatedeskripsi {
   animation: fadeIn;
+  animation-delay: 1s;
   animation-duration: 5s;
 }
 @import url('https://animate.style/');
 .animatecard {
   animation: fadeInTopLeft;
+  animation-duration: 2s;
+}
+@import url('https://animate.style/');
+.animateTopup {
+  animation: fadeInTopRight;
+  animation-duration: 2s;
+}
+@import url('https://animate.style/');
+.animatearsana {
+  animation: zoomInDown;
   animation-duration: 2s;
 }
